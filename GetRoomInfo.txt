@@ -1,0 +1,28 @@
+{
+    "room": {
+        "_id": "GENERAL",
+        "ts": "2020-10-06T19:02:11.420Z",
+        "t": "c",
+        "name": "general",
+        "usernames": [],
+        "msgs": 5,
+        "usersCount": 2,
+        "default": true,
+        "_updatedAt": "2020-10-07T06:51:03.062Z",
+        "lastMessage": {
+            "_id": "xgqeZy2kyr5rr57La",
+            "rid": "GENERAL",
+            "msg": "bot wru",
+            "ts": "2020-10-07T03:45:25.459Z",
+            "u": {
+                "_id": "Z9HiKJJbRxCe6JnJR",
+                "username": "mpgarcia"
+            },
+            "mentions": [],
+            "channels": [],
+            "_updatedAt": "2020-10-07T03:45:25.493Z"
+        },
+        "lm": "2020-10-07T03:45:25.459Z"
+    },
+    "success": true
+}
